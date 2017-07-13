@@ -1,1 +1,1 @@
-# Machine-Learning-Specialization-U-of-Wash-
+# Machine-Learning-Specialization-U-of-Wash
