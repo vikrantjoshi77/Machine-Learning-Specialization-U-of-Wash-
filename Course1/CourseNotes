@@ -1,7 +1,6 @@
-
-Week2: Predicting House Prices Using Linear Regression: 
-First case study predicting house prices: create models that predict a continuous value (price) 
-from input features (square footage, number of bedrooms and bathrooms,...).
-Analyze the performance of your predictive model and implement regression in practice using an iPython notebook.
+1. Week2: Predicting House Prices Using Linear Regression: 
+   First case study predicting house prices: create models that predict a continuous value (price) 
+   from input features (square footage, number of bedrooms and bathrooms,...).
+   Analyze the performance of your predictive model and implement regression in practice using an iPython notebook.
 
 
