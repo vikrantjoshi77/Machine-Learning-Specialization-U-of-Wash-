@@ -1,1 +1,3 @@
-# Machine-Learning-Specialization-U-of-Wash
+# Machine Learning Specialization:
+** Machine Learning Foundations: A Case Study Approach
+** Machine Learning: Regression
